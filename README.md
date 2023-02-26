@@ -19,5 +19,6 @@ Live preview [here!](https://hoangv954.github.io/restaurant-page-v2/)
 
 ## CREDIT:
 #### - Decor designs, monster designs, wallpapers, video, pictures, icons, some of the effects: CAPCOM Co., Ltd.
-#### - Chef pictures: Reddit user u/HoontsArt, Kerri Aitken Illustration.
-#### - Grammeowster Chef cover, fonts and some lore ideas: CAPCOM Co., Ltd., Monster Hunter Wiki, Monster Hunter World wiki at Fextralife.
+#### - Chef pictures: Reddit user u/HoontsArt, Kerri Aitken Illustration
+#### - Grammeowster Chef cover, fonts and some lore ideas: CAPCOM Co., Ltd., Monster Hunter Wiki, Monster Hunter World wiki at Fextralife
+#### - Logo image: monsterart- on Redbubble.com
