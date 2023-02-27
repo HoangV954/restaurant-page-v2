@@ -22,3 +22,4 @@ Live preview [here!](https://hoangv954.github.io/restaurant-page-v2/)
 #### - Chef pictures: Reddit user u/HoontsArt, Kerri Aitken Illustration
 #### - Grammeowster Chef cover, fonts and some lore ideas: CAPCOM Co., Ltd., Monster Hunter Wiki, Monster Hunter World wiki at Fextralife
 #### - Logo image: monsterart- on Redbubble.com
+#### - If you want to implement this design, check out webdiscus' html-bundler-webpack-plugin for a much cleaner approach
